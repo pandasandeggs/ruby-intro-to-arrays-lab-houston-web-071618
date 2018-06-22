@@ -23,3 +23,14 @@ end
 def first_element_with_array_methods(array)
   return array.first 
 end 
+
+def last_element_with_array_methods
+  return array.last 
+end 
+
+
+
+
+
+
+
